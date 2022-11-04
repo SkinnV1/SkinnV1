@@ -6,6 +6,10 @@
 Sou químico, atualmente estudando para entrar na área de FrontEnd. <br>
 Ando fazendo diversos cursos para melhorar meus conhecimentos e aumentar meu repertório.
 
+## 💻 Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 
 ## 🧠 Estou aprendendo
 
