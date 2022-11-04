@@ -8,7 +8,7 @@ Ando fazendo diversos cursos para melhorar meus conhecimentos e aumentar meu rep
 
 ## 💻 Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkinnV1&theme=tokyonight)
 
 
 ## 🧠 Estou aprendendo
