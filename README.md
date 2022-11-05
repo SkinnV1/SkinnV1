@@ -15,7 +15,7 @@ Ando fazendo diversos cursos para melhorar meus conhecimentos e aumentar meu rep
 
  - HTML
  - Javascript
- - css
+ - CSS
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharcisio-melo)
 
