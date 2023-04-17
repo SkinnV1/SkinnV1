@@ -1,5 +1,5 @@
 
-# Oie, eu sou o Tharcisio ou Skinn!👋
+# Oie, eu sou o Tharcisio! 👋
 
 
 ## 🚀 Sobre mim
@@ -17,6 +17,7 @@ Atualmente estou estudando JavaScript e Angular
  - Javascript
  - CSS
  - Angular
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharcisio-melo)
 
