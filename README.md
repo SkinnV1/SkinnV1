@@ -8,7 +8,7 @@ Atualmente estou estudando JavaScript e Angular
 
 ## 💻 Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkinnV1&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkinnV1&layout=compact)](https://github.com/SkinnV1/github-readme-stats)
 
 
 ## 🧠 Estou aprendendo
