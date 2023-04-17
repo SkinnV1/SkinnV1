@@ -3,8 +3,8 @@
 
 
 ## 🚀 Sobre mim
-Sou químico, atualmente estudando para entrar na área de FrontEnd. <br>
-Atualmente estou estudando JavaScript e Angular 
+Sou químico, atualmente estudando para entrar na área de desenvolvimento. <br>
+Estou estudando e me aprofundando na área de Front End, utilizando tecnologias como JavaScript e Angular. 
 
 ## 💻 Linguagens
 
