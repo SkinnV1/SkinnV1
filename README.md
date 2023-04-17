@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 Sou químico, atualmente estudando para entrar na área de FrontEnd. <br>
-Ando fazendo diversos cursos para melhorar meus conhecimentos e aumentar meu repertório.
+Atualmente estou estudando JavaScript e Angular 
 
 ## 💻 Linguagens
 
@@ -16,6 +16,7 @@ Ando fazendo diversos cursos para melhorar meus conhecimentos e aumentar meu rep
  - HTML
  - Javascript
  - CSS
+ - Angular
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharcisio-melo)
 
